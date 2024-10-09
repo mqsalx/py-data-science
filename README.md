@@ -1,6 +1,9 @@
-![Python Logo](https://img.icons8.com/?size=512&id=13441&format=png)
+<div align="center">
+  <img src="https://img.icons8.com/?size=512&id=13441&format=png" alt="Python Logo" />
+</div>
 
-👨🏽‍🏫 Python Basics for Data Science
+# 👨🏽‍🏫 Python Basics for Data Science:
+
 This notebook introduces essential Python concepts for Data Science, covering control flow structures, data manipulation using lists and dictionaries, and providing practical examples that prepare students for data analysis tasks.
 
 ## 📜 Overview
